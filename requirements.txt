@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+scipy
+xgboost
+joblib
+fastapi
+uvicorn
+tqdm
+python-multipart
+pydantic
+faiss-cpu
